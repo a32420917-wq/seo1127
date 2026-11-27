@@ -1,0 +1,6 @@
+{
+  "name": "시니어 일자리 나침반 — MBTI 성향 테스트",
+  "description": "은퇴 후 인생 2막, 나의 MBTI 성향에 꼭 맞는 시니어 일자리와 사회활동 분야를 찾아주는 맞춤형 성향 테스트입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
